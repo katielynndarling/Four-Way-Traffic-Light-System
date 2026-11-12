@@ -9,8 +9,10 @@
 Designed and implemented a four-way traffic light controller using embedded C and the TI TM4C123G LaunchPad microcontroller. The system simulates traffic flow through a four-way intersection with coordinated signal sequencing and an emergency override mechanism.
 
 Project Images:
-<img src="images/traffic-light1.png" width="400">
-<img src="images/traffic-light2.png" width="400">
+<p align="center">
+  <img src="images/traffic-light1.png" width="400">
+  <img src="images/traffic-light2.png" width="400">
+</p>
 
 ## Hardware Components
 
