@@ -8,6 +8,7 @@
 
 Designed and implemented a four-way traffic light controller using embedded C and the TI TM4C123G LaunchPad microcontroller. The system simulates traffic flow through a four-way intersection with coordinated signal sequencing and an emergency override mechanism.
 
+
 ## Hardware Components
 
 - TI TM4C123G LaunchPad
@@ -44,7 +45,7 @@ Developed in embedded C using Texas Instruments Code Composer Studio.
 
 The circuit consists of four LED assemblies connected to the TM4C123G LaunchPad through GPIO pins. Each assembly represents one direction of traffic, while the tilt switch provides an emergency control input.
 
-![Four-Way Traffic Light Circuit Diagram]("C:\Users\katie\OneDrive\Pictures\Screenshots\Screenshot 2026-11-12 155547.png")
+![Four-Way Traffic Light Circuit Diagram](images/traffic-schematic)
 
 [View Original Circuit Schematic](https://www.hackster.io/beats-by-dray/rush-hour-c27880#schematics)
 
