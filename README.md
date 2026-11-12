@@ -11,7 +11,7 @@ Designed and implemented a four-way traffic light controller using embedded C an
 Project Images:
 <p align="center">
   <img src="images/traffic-light1.png" width="400">
-  <img src="images/traffic-light2.png" width="400">
+  <img src="images/traffic-light2.png" width="300">
 </p>
 
 ## Hardware Components
