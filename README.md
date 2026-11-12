@@ -44,7 +44,7 @@ Developed in embedded C using Texas Instruments Code Composer Studio.
 
 The circuit consists of four LED assemblies connected to the TM4C123G LaunchPad through GPIO pins. Each assembly represents one direction of traffic, while the tilt switch provides an emergency control input.
 
-![Four-Way Traffic Light Circuit Diagram](images/circuit-diagram.png)
+![Four-Way Traffic Light Circuit Diagram]("C:\Users\katie\OneDrive\Pictures\Screenshots\Screenshot 2026-11-12 155547.png")
 
 [View Original Circuit Schematic](https://www.hackster.io/beats-by-dray/rush-hour-c27880#schematics)
 
