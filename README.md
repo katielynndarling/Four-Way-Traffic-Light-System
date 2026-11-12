@@ -4,4 +4,4 @@ Four-way traffic light controller programmed in C on the TI TM4C123G LaunchPad, 
 
 ## Demo Video
 
-[Watch the Four-Way Traffic Light Controller Demo on YouTube](https://youtube.com/shorts/n9hjhn0f1n4
+[![Four-Way Traffic Light Controller Demo](https://img.youtube.com/vi/n9hjhn0f1n4/hqdefault.jpg)](https://youtube.com/shorts/n9hjhn0f1n4)
